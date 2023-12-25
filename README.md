@@ -1,7 +1,10 @@
 # AR FILTERS
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/79600026/200433031-d6d175ab-5c33-4eba-aa67-6c5cb30d3a16.jpg" alt="9" width="350"/>
+  ![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/AR-VR-filters/assets/89780894/875fde0b-0a25-405b-bc64-05057b7a8576)
+
+
+  
 </p> 
 
 A repository for submitting your AR filters for the GDSC IGDTUW Autumn of Code programme.
