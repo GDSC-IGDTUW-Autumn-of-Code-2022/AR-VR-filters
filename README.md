@@ -2,12 +2,9 @@
 
 <p align="center">
   ![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/AR-VR-filters/assets/89780894/875fde0b-0a25-405b-bc64-05057b7a8576)
-
-
-  
 </p> 
 
-A repository for submitting your AR filters for the GDSC IGDTUW Autumn of Code programme.
+A repository for submitting your AR filters for the GDSC IGDTUW Snowscript Winter of Code programme.
 
 ## CONTRIBUTING TO THIS PROJECT
 
@@ -24,14 +21,14 @@ A repository for submitting your AR filters for the GDSC IGDTUW Autumn of Code p
 
 
 You can take up any of the existing issues or create a new issue to to contribute any of your own filter links and descriptions!<br/> 
-Contribution period ends: 22 December 2022
+Contribution period ends: 26 January 2024
 
 
 ## How to get started?
 
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.gg/xTNC4MGB) if you have any doubts.
 
-- [Learn how to contribute to GDSC IGDTUW Autumn of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
+- [Learn how to contribute to GDSC IGDTUW Snowscript Winter of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
 - [Go through this repository to how to contribute learn step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
@@ -42,16 +39,16 @@ You can refer to the following resources on Git and Github to get started and co
 
 
 ## Prizes 
-- Top 3 contributors 🍁<br/> 
+- Top 3 contributors ❄️<br/> 
 Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-- Top 5 female contributors 🍁 <br/>
+- Top 5 female contributors ❄️ <br/>
 Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
-- Top 10 contributors 🍁 <br/>
+- Top 10 contributors ❄️ <br/>
 Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Certificate of appreciation
 
-- Top 25 contributors 🍁 <br/>
+- Top 25 contributors ❄️ <br/>
 Swag kits and lots of exciting goodies | Certificate of appreciation
 
 - All the contributors will get a certificate of appreciation for their first successful pull request
